@@ -37,5 +37,5 @@ This project predicts the price of a car based on its mileage using a Linear Reg
 
 ## 👩‍💻 Author
 **Shruti Tiwari**
-if you found this project useful, fel free to share your feedback
+if you found this project useful, feel free to share your feedback
 
